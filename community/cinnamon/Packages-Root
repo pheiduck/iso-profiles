@@ -49,6 +49,8 @@ KERNEL
 less
 licenses
 linux-firmware
+linux-firmware-whence
+linux-firmware-qlogic
 logrotate
 lsb-release
 lvm2
@@ -58,6 +60,7 @@ manjaro-firmware
 manjaro-system
 mdadm
 memtest86+
+memtest86-efi
 mhwd
 mhwd-db
 mkinitcpio-openswap
